@@ -6,8 +6,8 @@ from telegram import Bot
 from telegram.error import BadRequest
 
 # Ваш токен, полученный от BotFather
-TOKEN = '7139445889:AAGejXoPmbRoJlbmCuNRmobLQAftT-P9W-s'
-CHAT_ID = '-4289291842'  # ID чата, куда будут отправляться цитаты
+TOKEN = ''
+CHAT_ID = ''  # ID чата, куда будут отправляться цитаты
 
 
 
